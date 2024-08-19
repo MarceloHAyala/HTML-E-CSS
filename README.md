@@ -1,1 +1,1 @@
-Site criado do zero utilizando HTML e CSS
+Pagina inicial criada do zero utilizando HTML e CSS
